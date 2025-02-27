@@ -1,4 +1,5 @@
 Kapasite Planlaması Tahmini
+
 Bu proje, sistem kaynaklarının (CPU, bellek, disk) kullanımını tahmin etmek için bir makine öğrenmesi modeli eğitmeyi amaçlamaktadır. Sistem performansını izlemek ve gelecekteki kaynak ihtiyaçlarını tahmin etmek için kullanılabilir.
 
 Proje Adımları:
